@@ -10,4 +10,4 @@ Este projeto foi um estudo de html5, css e javascript com base em um layout tira
 
 1. Clonar repositório em algum diretório.
 2. Abrir o arquivo index.html.
-3. Clicar nos botões de voltar e avançar.
+3. Clicar nos cards para trocá-los de ordem.
